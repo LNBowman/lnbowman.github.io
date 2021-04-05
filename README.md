@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+This is my main faculty webpage.  Please feel free to peruse anything you find and send me suggestions.  Thanks
 <!--
 **LNBowman/lnbowman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
