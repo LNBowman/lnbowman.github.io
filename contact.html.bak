@@ -11,7 +11,7 @@
 <header>
 <nav>
 	<ul>
-		<li><a href="index.html">Home</a></li>
+		<li><a href="">Home</a></li>
 		<li><a href="courses.html">Current Work</a></li>
 		<li><a href="#learning">Current Learning</a></li>
 		<li><a href="#collaborations">Collaborations</a></li>
@@ -27,7 +27,7 @@
 </div></header>
 </div>
 	<div class = "post" id = "p1">
-		<p><img src="Latrice_2020.png"style="height: 250px; float: left; margin-right: 20px;"><div class = "post" id = "p2">
+		<p><img src="Latrice_2020.png"style="height: 300px; float: left; margin-right: 20px;"><div class = "post" id = "p2">
                 <h3>Contact Information</h3>
                 <p><b>Office:</b> Chapman 210B</p>
                 <p> Office Phone:</b> 907-474-5427</p>
